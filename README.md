@@ -1,16 +1,14 @@
-### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+👋;I'm+Jem.+Web+Developer)](https://git.io/typing-svg)
-<!--
-**jemHerrera/jemHerrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+👋;I'm+Jem.+✨Web+Developer✨)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+## BIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 I work with these files a lot: `.vue`, `.js`, `.html`, `.scss`, `.fig`
+🤔 I’m currently learning **React.js**
+🔭 I’m currently looking for work 
+🌱 I'm a life-long learner
+⚡ Likes Digital Art, Brazilian Jiu Jitsu, Yoga, Japanese culture, Philosophy
+👉 Check out my [portfolio](https://jemherrera.github.io/portfolio) 
+
+
+##### Language Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jemHerrera&layout=compact)
