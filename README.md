@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+👋;I'm+Jem.+✨Web+Developer✨)](https://git.io/typing-svg)
 
-## BIO
+##### BIO
 
 - 🛠 I work with these files a lot: `.vue`, `.js`, `.html`, `.scss`, `.liquid`
 - 🤔 I’m currently learning **React.js**
