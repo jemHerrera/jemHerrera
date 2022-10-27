@@ -2,12 +2,12 @@
 
 ## BIO
 
-🛠 I work with these files a lot: `.vue`, `.js`, `.html`, `.scss`, `.fig`
-🤔 I’m currently learning **React.js**
-🔭 I’m currently looking for work 
-🌱 I'm a life-long learner
-⚡ Likes Digital Art, Brazilian Jiu Jitsu, Yoga, Japanese culture, Philosophy
-👉 Check out my [portfolio](https://jemherrera.github.io/portfolio) 
+- 🛠 I work with these files a lot: `.vue`, `.js`, `.html`, `.scss`, `.liquid`
+- 🤔 I’m currently learning **React.js**
+- 🔭 I’m currently looking for work 
+- 🌱 I'm a life-long learner
+- ⚡ Likes Digital Art, Brazilian Jiu Jitsu, Yoga, Japanese culture, Philosophy
+- 👉 Check out my [portfolio](https://jemherrera.github.io/portfolio) 
 
 
 ##### Language Stats
