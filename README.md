@@ -3,7 +3,6 @@
 ##### BIO
 
 - 🛠 I work with these files a lot: `.vue`, `.ts`
-- 🤔 I’m currently learning **React.js**
-- 🌱 I'm a life-long learner
-- ⚡ Likes Digital Art, Brazilian Jiu Jitsu, Yoga, Japanese culture, Philosophy
+- 🤔 I’m currently learning **Generative AI with LLMs**
+- ⚡ Likes AI, Art, Martial Arts, Yoga, Japanese culture, Philosophy
 - 👉 Check out my [portfolio](https://jemherrera.github.io/portfolio) 
